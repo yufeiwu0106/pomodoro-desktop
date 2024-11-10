@@ -1,0 +1,52 @@
+"""CS 5001 
+Yufei Wu
+"""
+
+
+[Idea 1]
+
+1. Why are you interested in this topic?
+My first idea is to write a 2D football game where the primary action involves heading the ball. The game's objective is to score points by heading the ball into the opponent's net. It features both a single player and an AI opponent for added challenge.
+
+Players will need to input their ID, and the game will keep a record of the top five highest scores in a database. I am interested in this project because it combines my passion for both programming and football. 
+
+
+2. How hard do you think it will be, and why?
+My research suggests that this project will be somewhat difficult. Making a 2D game with player-AI interaction and database integration is more complex, even though I understand Python at a basic level and some basic programming concepts from CS5001. It can be difficult to develop collision detection, player controls, and game mechanics. Furthermore, I will need to gain more knowledge about database operations in order to work with databases to store and manage high scores. 
+
+
+3. Besides the core CS5001 content, what else will you need to learn to complete the project?
+- Game development with Python
+- Collision detection: Learning how to detect collisions between game objects
+- Artificial intelligence
+- Database integration
+
+
+4.What are the biggest pros and cons?
+Pros: learn new concepts about game development with Python, graphics and databases
+Cons: It will be a time-consuming project
+
+
+5. How will you get started?
+I will explore online resources, tutorials, and documentation related to game development with Python, collision detection techniques, AI programming, and database integration.
+Furthermore, I will start by creating a basic game framework and gradually implement features, such as player movement, AI behavior, and scoring logic.
+
+
+[Idea 2]
+
+1. Why are you interested in this topic?
+The Pomodoro timer project idea appeals to me because it blends programming and productivity strategies. It's a useful application of my Python skills, and it can help users manage their time more effectively.
+
+2. How hard do you think it will be, and why?
+This project should be moderately challenging, in my opinion. Despite my foundation in Python from CS5001, I will need to put in more time and effort to learn how to send notification when time is up, and integrate with database to track users records.
+
+3. Besides the core CS5001 content, what else will you need to learn to complete the project?
+In order to finish the project, I'll need to gain knowledge of databases management, and send notifications.
+
+4.What are the biggest pros and cons?
+Pros: It's a very practical tool if I made it. Also, I will learn databases and more libraries in Python.
+Cons: less time-consuming project(compared to idea 1)
+
+
+5. How will you get started?
+I'll start by looking into Python libraries and how to interact with database. After that, I'll begin coding the timer, testing and improving the program as I go.
